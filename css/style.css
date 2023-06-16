@@ -11,7 +11,7 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #0d5565;
+    background-color: #011d23;
 }
 .wrapper
 {
@@ -98,7 +98,7 @@ body
 .sizes .column input:focus
 {
     padding: 0 14px;
-    border: 2px solid  #08829D;
+    border: 2px solid  #05657b;
 } 
 
 .content .checkboxes  
@@ -110,7 +110,7 @@ margin-top: 20px;
     width: 17px;
     height: 17px;
     margin-right: 9px;
-    accent-color: #08829D;
+    accent-color: #05657b;
 
 }
 .checkboxes .column 
@@ -121,7 +121,7 @@ margin-top: 20px;
 .content .download-btn
 {
     width: 100%;
-    background-color: #08829D;
+    background-color: #05657b;
     padding: 15px 0px;
     margin: 30px 0 10px;
     outline: none;
